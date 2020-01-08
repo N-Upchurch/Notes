@@ -1,0 +1,34 @@
+---
+tags: [Code Snippets, ES6, Javascript]
+title: Use * to Import Everything from a File
+created: '2019-12-09T04:55:23.534Z'
+modified: '2019-12-09T05:05:09.554Z'
+---
+
+Use * to Import Everything from a File
+======================================
+
+Suppose you have a file and you wish to import all of its contents into the current file. This can be done with the import * as syntax. Here's an example where the contents of a file named math_functions.js are imported into a file in the same directory:
+``` javascript
+import * as myMathModule from "./math_functions.js";
+
+```
+The above import statement will create an object called myMathModule. This is just a variable name, you can name it anything. The object will contain all of the exports from math_functions.js in it, so you can access the functions like you would any other object property. Here's how you can use the add and subtract functions that were imported:
+``` javascript
+myMathModule.add(2,3);
+myMathModule.subtract(5,3);
+Use * to Import Everything from a File
+
+```
+Suppose you have a file and you wish to import all of its contents into the current file. This can be done with the import * as syntax. Here's an example where the contents of a file named math_functions.js are imported into a file in the same directory:
+``` javascript
+import * as myMathModule from "./math_functions.js";
+
+```
+The above import statement will create an object called myMathModule. This is just a variable name, you can name it anything. The object will contain all of the exports from math_functions.js in it, so you can access the functions like you would any other object property. Here's how you can use the add and subtract functions that were imported:
+``` javascript
+myMathModule.add(2,3);
+myMathModule.subtract(5,3);
+
+```
+
