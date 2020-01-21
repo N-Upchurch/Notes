@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions]
+tags: [Algorithm Solutions, Code Snippets, Javascript]
 title: 'Intermediate Algorithm Scripting: Sum All Primes'
 created: '2020-01-20T05:36:21.428Z'
-modified: '2020-01-20T05:42:41.754Z'
+modified: '2020-01-20T20:01:02.335Z'
 ---
 
 Intermediate Algorithm Scripting: Sum All Primes
