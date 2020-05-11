@@ -2,11 +2,22 @@
 tags: [JSX, Notes, React]
 title: React Notes
 created: '2020-05-09T22:56:06.949Z'
-modified: '2020-05-11T04:59:19.842Z'
+modified: '2020-05-11T18:53:33.220Z'
 ---
 
 React Notes
 ============
+Vocabulary
+----------
+**Stateful Component**
+A class component that maintains its own internal state. You may see stateful components referred to simply as components or React components.
+
+**Stateless Component**
+A class that extends React.Component, but does not use internal state.
+
+**Stateless Functional Component**
+Any function you write which accepts props and returns JSX. 
+
 Components
 ----------
 ### Evaluating Prop Values as JavaScript
@@ -16,6 +27,11 @@ For prop values to be evaluated as JavaScript, they must be enclosed in curly br
 ``` javascript
 MyComponent.defaultProps = { location: 'San Francisco' }
 ```
+### Access Props in ES6 Class Components Using this.props
+
+The ES6 class component uses a slightly different convention to access props.
+
+Anytime you refer to a class component within itself, you use the ```this``` keyword. To access ```props``` within a class component, you preface the code that you use to access it with ```this```. For example, if an ES6 class component has a prop called ```data```, you write ```{this.props.data}``` in JSX.
 
 ReactDOM
 --------
