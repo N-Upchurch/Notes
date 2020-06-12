@@ -1,8 +1,8 @@
 ---
-tags: [React]
+tags: [Code Snippets, React]
 title: 'React: Create a Stateless Functional Component'
 created: '2020-05-10T22:21:37.905Z'
-modified: '2020-05-10T22:22:21.630Z'
+modified: '2020-05-12T19:01:04.291Z'
 ---
 
 React: Create a Stateless Functional Component
