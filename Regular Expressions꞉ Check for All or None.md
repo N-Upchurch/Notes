@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Check for All or None'
 created: '2019-12-10T03:25:47.814Z'
-modified: '2019-12-10T03:26:12.497Z'
+modified: '2021-02-09T20:00:07.937Z'
 ---
 
 Regular Expressions: Check for All or None

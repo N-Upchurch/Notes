@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Add Event Listeners'
 created: '2020-09-09T16:51:23.545Z'
-modified: '2020-09-14T03:35:39.655Z'
+modified: '2021-02-09T19:58:31.319Z'
 ---
 
 React: Add Event Listeners

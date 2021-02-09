@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'JavaScript Algorithms and Data Structures Projects: Caesars Cipher'
 created: '2020-04-01T20:52:18.741Z'
-modified: '2020-04-01T20:59:02.014Z'
+modified: '2021-02-09T20:01:38.196Z'
 ---
 
 JavaScript Algorithms and Data Structures Projects: Caesars Cipher

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Use getters and setters to Control Access to an Object
 created: '2019-12-08T03:37:49.451Z'
-modified: '2019-12-08T04:19:08.543Z'
+modified: '2021-02-09T20:02:36.751Z'
 ---
 
 Use getters and setters to Control Access to an Object

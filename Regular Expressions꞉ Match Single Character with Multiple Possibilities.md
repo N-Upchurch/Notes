@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Match Single Character with Multiple Possibilities'
 created: '2019-12-09T05:59:57.695Z'
-modified: '2019-12-09T06:01:35.030Z'
+modified: '2021-02-09T20:00:23.310Z'
 ---
 
 Regular Expressions: Match Single Character with Multiple Possibilities

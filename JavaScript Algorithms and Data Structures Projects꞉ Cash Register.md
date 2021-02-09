@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'JavaScript Algorithms and Data Structures Projects: Cash Register'
 created: '2020-04-05T17:45:02.435Z'
-modified: '2020-05-09T22:14:59.080Z'
+modified: '2021-02-09T20:01:38.246Z'
 ---
 
 JavaScript Algorithms and Data Structures Projects: Cash Register

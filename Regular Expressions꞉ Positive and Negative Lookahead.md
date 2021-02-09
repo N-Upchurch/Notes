@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Positive and Negative Lookahead'
 created: '2019-12-10T19:15:28.005Z'
-modified: '2019-12-10T19:16:55.068Z'
+modified: '2021-02-09T20:00:23.401Z'
 ---
 
 Regular Expressions: Positive and Negative Lookahead

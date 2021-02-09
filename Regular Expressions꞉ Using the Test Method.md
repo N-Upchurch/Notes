@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Using the Test Method'
 created: '2019-12-09T05:38:46.908Z'
-modified: '2019-12-09T05:39:49.513Z'
+modified: '2021-02-09T20:00:23.568Z'
 ---
 
 Regular Expressions: Using the Test Method

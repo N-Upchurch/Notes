@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Match Beginning String Patterns'
 created: '2019-12-09T06:30:33.407Z'
-modified: '2019-12-09T06:31:48.143Z'
+modified: '2021-02-09T20:00:08.510Z'
 ---
 
 Regular Expressions: Match Beginning String Patterns

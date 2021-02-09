@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Create an Export Fallback with export default
 created: '2019-12-09T04:58:59.549Z'
-modified: '2019-12-09T05:05:28.113Z'
+modified: '2021-02-09T20:02:35.760Z'
 ---
 
 Create an Export Fallback with export default

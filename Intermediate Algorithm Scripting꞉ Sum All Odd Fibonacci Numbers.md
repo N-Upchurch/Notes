@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Sum All Odd Fibonacci Numbers'
 created: '2020-01-17T04:37:43.475Z'
-modified: '2020-01-17T04:55:54.173Z'
+modified: '2021-02-09T20:01:38.057Z'
 ---
 
 Intermediate Algorithm Scripting: Sum All Odd Fibonacci Numbers

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use Array.map() to Dynamically Render Elements'
 created: '2020-10-06T02:15:03.176Z'
-modified: '2020-10-06T02:25:34.181Z'
+modified: '2021-02-09T19:58:32.307Z'
 ---
 
 React: Use Array.map() to Dynamically Render Elements

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, scss]
+tags: [scss]
 title: 'Sass: Apply a Style Until a Condition is Met with @while'
 created: '2020-05-09T22:27:03.363Z'
-modified: '2020-05-09T22:27:50.881Z'
+modified: '2021-02-09T19:58:34.792Z'
 ---
 
 Sass: Apply a Style Until a Condition is Met with @while

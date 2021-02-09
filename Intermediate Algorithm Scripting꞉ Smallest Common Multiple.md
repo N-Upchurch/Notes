@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Euclidean, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Smallest Common Multiple'
 created: '2020-01-20T19:59:54.749Z'
-modified: '2020-01-27T02:28:39.342Z'
+modified: '2021-02-09T20:01:07.400Z'
 ---
 
 Intermediate Algorithm Scripting: Smallest Common Multiple

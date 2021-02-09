@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use Advanced JavaScript in React Render Method'
 created: '2020-09-14T02:16:04.920Z'
-modified: '2020-09-14T03:03:38.884Z'
+modified: '2021-02-09T19:58:32.226Z'
 ---
 
 React: Use Advanced JavaScript in React Render Method

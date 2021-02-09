@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Add Inline Styles in React'
 created: '2020-09-14T01:55:18.743Z'
-modified: '2020-09-14T02:16:03.139Z'
+modified: '2021-02-09T19:58:31.357Z'
 ---
 
 React: Add Inline Styles in React

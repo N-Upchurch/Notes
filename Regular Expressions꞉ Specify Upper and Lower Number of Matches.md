@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Specify Upper and Lower Number of Matches'
 created: '2019-12-10T03:13:28.782Z'
-modified: '2019-12-10T03:24:29.665Z'
+modified: '2021-02-09T20:00:23.486Z'
 ---
 
 Regular Expressions: Specify Upper and Lower Number of Matches

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Set State with this.setState'
 created: '2020-05-12T18:59:30.774Z'
-modified: '2020-05-14T01:27:32.170Z'
+modified: '2021-02-09T19:58:32.112Z'
 ---
 
 React: Set State with this.setState

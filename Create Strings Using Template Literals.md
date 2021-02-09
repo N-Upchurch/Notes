@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Create Strings Using Template Literals
 created: '2019-12-08T02:44:53.305Z'
-modified: '2019-12-08T02:46:54.266Z'
+modified: '2021-02-09T20:02:35.859Z'
 ---
 
 Create Strings Using Template Literals

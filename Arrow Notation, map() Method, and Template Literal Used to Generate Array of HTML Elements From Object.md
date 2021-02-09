@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: 'Arrow Notation, map() Method, and Template Literal Used to Generate Array of HTML Elements From Object'
 created: '2019-12-08T02:44:19.077Z'
-modified: '2019-12-09T05:05:36.610Z'
+modified: '2021-02-09T20:02:35.452Z'
 ---
 
 Arrow Notation, map() Method, and Template Literal Used to Generate Array of HTML Elements From Object

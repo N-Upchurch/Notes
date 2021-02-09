@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use && for a More Concise Conditional'
 created: '2020-09-14T03:28:50.358Z'
-modified: '2020-09-14T03:32:41.982Z'
+modified: '2021-02-09T19:58:32.148Z'
 ---
 
 React: Use && for a More Concise Conditional

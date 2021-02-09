@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Diff Two Arrays'
 created: '2020-01-03T05:37:50.894Z'
-modified: '2020-01-06T05:37:03.795Z'
+modified: '2021-02-09T20:01:37.539Z'
 ---
 
 Intermediate Algorithm Scripting: Diff Two Arrays

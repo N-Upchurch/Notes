@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Use Destructuring Assignment to Pass an Object as a Function's Parameters
 created: '2019-12-08T02:45:59.035Z'
-modified: '2019-12-09T05:05:18.610Z'
+modified: '2021-02-09T20:02:36.515Z'
 ---
 
 Use Destructuring Assignment to Pass an Object as a Function's Parameters

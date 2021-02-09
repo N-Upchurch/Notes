@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use PropTypes to Define the Props You Expect'
 created: '2020-05-11T18:17:22.518Z'
-modified: '2020-05-11T18:19:07.713Z'
+modified: '2021-02-09T19:58:32.354Z'
 ---
 
 React: Use PropTypes to Define the Props You Expect

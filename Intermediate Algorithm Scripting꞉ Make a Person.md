@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Make a Person'
 created: '2020-02-19T02:46:45.467Z'
-modified: '2020-02-19T02:49:21.182Z'
+modified: '2021-02-09T20:01:37.719Z'
 ---
 
 Intermediate Algorithm Scripting: Make a Person

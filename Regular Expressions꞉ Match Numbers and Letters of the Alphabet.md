@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Match Numbers and Letters of the Alphabet'
 created: '2019-12-09T06:11:02.558Z'
-modified: '2019-12-09T06:11:44.659Z'
+modified: '2021-02-09T20:00:23.262Z'
 ---
 
 Regular Expressions: Match Numbers and Letters of the Alphabet

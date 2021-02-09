@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, scss]
+tags: [scss]
 title: 'Sass: Use @for to Create a Sass Loop'
 created: '2020-05-09T22:15:03.426Z'
-modified: '2020-05-09T22:17:10.675Z'
+modified: '2021-02-09T19:58:34.992Z'
 ---
 
 Sass: Use @for to Create a Sass Loop

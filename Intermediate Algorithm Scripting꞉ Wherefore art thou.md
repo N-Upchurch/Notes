@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Wherefore art thou'
 created: '2020-01-06T05:34:19.220Z'
-modified: '2020-01-06T05:38:40.114Z'
+modified: '2021-02-09T20:01:38.157Z'
 ---
 
 Intermediate Algorithm Scripting: Wherefore art thou

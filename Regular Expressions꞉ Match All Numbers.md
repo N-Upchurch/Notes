@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Match All Numbers'
 created: '2019-12-09T14:52:19.215Z'
-modified: '2019-12-09T14:52:54.681Z'
+modified: '2021-02-09T20:00:08.381Z'
 ---
 
 Regular Expressions: Match All Numbers

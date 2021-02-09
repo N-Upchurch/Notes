@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Use const for Action Types'
 created: '2020-10-07T00:21:25.757Z'
-modified: '2020-10-07T00:22:13.661Z'
+modified: '2021-02-09T19:58:33.282Z'
 ---
 
 Redux: Use const for Action Types

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Copy an Array with the Spread Operator
 created: '2019-12-11T05:32:16.620Z'
-modified: '2019-12-11T05:32:45.085Z'
+modified: '2021-02-09T20:02:35.532Z'
 ---
 
 Copy an Array with the Spread Operator

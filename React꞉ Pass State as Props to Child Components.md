@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Pass State as Props to Child Components'
 created: '2020-08-30T02:40:20.809Z'
-modified: '2020-08-30T02:46:43.701Z'
+modified: '2021-02-09T19:58:31.862Z'
 ---
 
 React: Pass State as Props to Child Components

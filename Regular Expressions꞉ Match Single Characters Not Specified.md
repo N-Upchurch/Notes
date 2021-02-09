@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Match Single Characters Not Specified'
 created: '2019-12-09T06:14:27.143Z'
-modified: '2019-12-09T06:15:55.116Z'
+modified: '2021-02-09T20:00:23.348Z'
 ---
 
 Regular Expressions: Match Single Characters Not Specified

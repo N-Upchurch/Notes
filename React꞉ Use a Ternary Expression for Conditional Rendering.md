@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use a Ternary Expression for Conditional Rendering'
 created: '2020-09-14T03:39:31.538Z'
-modified: '2020-09-14T03:53:08.606Z'
+modified: '2021-02-09T19:58:32.190Z'
 ---
 
 React: Use a Ternary Expression for Conditional Rendering

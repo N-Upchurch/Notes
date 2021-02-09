@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Find Characters with Lazy Matching'
 created: '2019-12-09T06:23:05.045Z'
-modified: '2019-12-09T06:23:51.069Z'
+modified: '2021-02-09T20:00:08.046Z'
 ---
 
 Regular Expressions: Find Characters with Lazy Matching

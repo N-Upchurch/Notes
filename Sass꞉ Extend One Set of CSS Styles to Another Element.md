@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, scss]
+tags: [scss]
 title: 'Sass: Extend One Set of CSS Styles to Another Element'
 created: '2020-05-09T22:48:19.330Z'
-modified: '2020-05-09T22:49:55.123Z'
+modified: '2021-02-09T19:58:34.832Z'
 ---
 
 Sass: Extend One Set of CSS Styles to Another Element

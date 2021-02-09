@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Render State in the User Interface'
 created: '2020-05-12T18:52:08.817Z'
-modified: '2020-05-12T19:00:53.395Z'
+modified: '2021-02-09T19:58:32.020Z'
 ---
 
 React: Render State in the User Interface

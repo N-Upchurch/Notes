@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Send Action Data to the Store'
 created: '2020-10-07T00:41:35.040Z'
-modified: '2020-10-07T00:51:15.407Z'
+modified: '2021-02-09T19:58:33.169Z'
 ---
 
 Redux: Send Action Data to the Store

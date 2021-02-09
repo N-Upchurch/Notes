@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Pass a Callback as Props'
 created: '2020-08-30T03:09:53.471Z'
-modified: '2020-08-30T03:15:57.231Z'
+modified: '2021-02-09T19:58:31.780Z'
 ---
 
 React: Pass a Callback as Props

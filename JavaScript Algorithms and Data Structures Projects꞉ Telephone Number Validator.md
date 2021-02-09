@@ -1,8 +1,7 @@
 ---
-tags: [Regex]
 title: 'JavaScript Algorithms and Data Structures Projects: Telephone Number Validator'
 created: '2020-04-02T21:36:30.156Z'
-modified: '2020-04-03T02:37:22.656Z'
+modified: '2021-02-09T20:00:07.874Z'
 ---
 
 JavaScript Algorithms and Data Structures Projects: Telephone Number Validator

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Reuse Patterns Using Capture Groups'
 created: '2019-12-10T19:56:16.327Z'
-modified: '2019-12-10T19:57:09.941Z'
+modified: '2021-02-09T20:00:23.440Z'
 ---
 
 Regular Expressions: Reuse Patterns Using Capture Groups

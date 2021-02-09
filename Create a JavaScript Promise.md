@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Create a JavaScript Promise
 created: '2019-12-09T05:07:19.231Z'
-modified: '2019-12-09T05:11:11.715Z'
+modified: '2021-02-09T20:02:35.601Z'
 ---
 
 Create a JavaScript Promise

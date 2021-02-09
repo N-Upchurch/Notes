@@ -1,8 +1,8 @@
 ---
-tags: [Cheat Sheet, Code Snippets, Javascript]
+tags: [Cheat Sheets, Javascript]
 title: Arrow Notation Cheat Sheet
 created: '2019-12-19T20:37:18.842Z'
-modified: '2019-12-19T20:41:45.630Z'
+modified: '2021-02-09T19:58:55.792Z'
 ---
 
 Arrow Notation Cheat Sheet

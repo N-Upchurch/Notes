@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Use export to Share a Code Block
 created: '2019-12-08T04:31:32.710Z'
-modified: '2019-12-08T04:58:03.079Z'
+modified: '2021-02-09T20:02:36.619Z'
 ---
 
 Use export to Share a Code Block

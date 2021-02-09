@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: DNA Pairing'
 created: '2020-01-09T07:14:21.797Z'
-modified: '2020-01-09T19:55:34.852Z'
+modified: '2021-02-09T20:01:37.583Z'
 ---
 
 Intermediate Algorithm Scripting: DNA Pairing

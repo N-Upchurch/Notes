@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: Check if an Object has a Property
 created: '2019-12-11T06:42:21.613Z'
-modified: '2019-12-11T06:43:01.234Z'
+modified: '2021-02-09T19:58:29.128Z'
 ---
 
 Check if an Object has a Property

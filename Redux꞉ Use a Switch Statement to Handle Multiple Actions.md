@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Use a Switch Statement to Handle Multiple Actions'
 created: '2020-10-07T00:04:03.709Z'
-modified: '2020-10-07T00:10:50.059Z'
+modified: '2021-02-09T19:58:33.223Z'
 ---
 
 Redux: Use a Switch Statement to Handle Multiple Actions

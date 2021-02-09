@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Match Ending String Patterns'
 created: '2019-12-09T06:33:09.889Z'
-modified: '2019-12-09T06:34:41.719Z'
+modified: '2021-02-09T20:00:23.104Z'
 ---
 
 Regular Expressions: Match Ending String Patterns

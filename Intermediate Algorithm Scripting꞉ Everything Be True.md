@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Everything Be True'
 created: '2020-02-18T04:41:42.984Z'
-modified: '2020-02-18T04:57:04.692Z'
+modified: '2021-02-09T20:01:37.674Z'
 ---
 
 Intermediate Algorithm Scripting: Everything Be True

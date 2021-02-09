@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Write a Counter with Redux'
 created: '2020-10-08T02:31:56.455Z'
-modified: '2020-10-08T02:32:31.231Z'
+modified: '2021-02-09T19:58:33.414Z'
 ---
 
 Redux: Write a Counter with Redux

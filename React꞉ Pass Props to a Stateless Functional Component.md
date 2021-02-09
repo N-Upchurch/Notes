@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Pass Props to a Stateless Functional Component'
 created: '2020-05-11T00:01:29.075Z'
-modified: '2020-05-12T19:00:59.395Z'
+modified: '2021-02-09T19:58:31.819Z'
 ---
 
 React: Pass Props to a Stateless Functional Component

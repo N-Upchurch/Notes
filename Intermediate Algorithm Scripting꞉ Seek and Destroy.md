@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Seek and Destroy'
 created: '2020-01-06T02:41:04.598Z'
-modified: '2020-01-06T05:36:55.027Z'
+modified: '2021-02-09T20:01:37.904Z'
 ---
 
 Intermediate Algorithm Scripting: Seek and Destroy

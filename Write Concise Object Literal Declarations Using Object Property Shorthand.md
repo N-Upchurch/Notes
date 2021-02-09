@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Write Concise Object Literal Declarations Using Object Property Shorthand
 created: '2019-12-08T02:43:24.091Z'
-modified: '2019-12-08T02:47:48.989Z'
+modified: '2021-02-09T20:02:36.899Z'
 ---
 
 Write Concise Object Literal Declarations Using Object Property Shorthand

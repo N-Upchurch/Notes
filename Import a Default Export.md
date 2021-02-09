@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Import a Default Export
 created: '2019-12-09T05:04:15.506Z'
-modified: '2019-12-09T05:04:58.882Z'
+modified: '2021-02-09T20:02:36.144Z'
 ---
 
 Import a Default Export

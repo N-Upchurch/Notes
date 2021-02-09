@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Handle an Action in the Store'
 created: '2020-10-06T23:50:36.875Z'
-modified: '2020-10-07T00:00:54.258Z'
+modified: '2021-02-09T19:58:32.935Z'
 ---
 
 Redux: Handle an Action in the Store

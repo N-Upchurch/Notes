@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, scss]
+tags: [scss]
 title: 'Sass: Use @each to Map Over Items in a List'
 created: '2020-05-09T22:18:11.790Z'
-modified: '2020-05-09T22:19:30.883Z'
+modified: '2021-02-09T19:58:34.939Z'
 ---
 
 Sass: Use @each to Map Over Items in a List

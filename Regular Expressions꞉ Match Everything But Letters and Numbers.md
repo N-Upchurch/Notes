@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Match Everything But Letters and Numbers'
 created: '2019-12-09T14:50:33.347Z'
-modified: '2019-12-09T14:52:16.663Z'
+modified: '2021-02-09T20:00:23.158Z'
 ---
 
 Regular Expressions: Match Everything But Letters and Numbers

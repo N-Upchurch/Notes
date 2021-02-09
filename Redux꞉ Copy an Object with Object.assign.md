@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Copy an Object with Object.assign'
 created: '2020-10-08T23:36:20.607Z'
-modified: '2020-10-08T23:43:30.145Z'
+modified: '2021-02-09T19:58:32.584Z'
 ---
 
 Redux: Copy an Object with Object.assign

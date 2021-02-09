@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Reuse Javascript Code Using import
 created: '2019-12-08T05:00:09.948Z'
-modified: '2019-12-08T05:00:49.626Z'
+modified: '2021-02-09T20:02:36.244Z'
 ---
 
 Reuse Javascript Code Using import

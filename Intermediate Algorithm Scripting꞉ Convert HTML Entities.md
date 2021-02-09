@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Convert HTML Entities'
 created: '2020-01-13T19:27:21.316Z'
-modified: '2020-01-14T06:16:44.313Z'
+modified: '2021-02-09T20:01:37.482Z'
 ---
 
 Intermediate Algorithm Scripting: Convert HTML Entities

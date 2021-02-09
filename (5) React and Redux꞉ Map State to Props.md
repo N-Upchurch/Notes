@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React, Redux]
+tags: [React, Redux]
 title: '(5) React and Redux: Map State to Props'
 created: '2020-10-10T01:50:29.225Z'
-modified: '2020-10-10T01:55:12.233Z'
+modified: '2021-02-09T19:58:28.737Z'
 ---
 
 (5) React and Redux: Map State to Props

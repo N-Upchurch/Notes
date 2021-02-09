@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Never Mutate State'
 created: '2020-10-08T02:41:11.906Z'
-modified: '2020-10-08T02:43:13.236Z'
+modified: '2021-02-09T19:58:33.014Z'
 ---
 
 Redux: Never Mutate State

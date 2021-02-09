@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Extract Matches'
 created: '2019-12-09T05:47:30.979Z'
-modified: '2019-12-09T05:51:57.536Z'
+modified: '2021-02-09T20:00:07.988Z'
 ---
 
 Regular Expressions: Extract Matches

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Dispatch an Action Event'
 created: '2020-10-06T23:46:09.165Z'
-modified: '2020-10-06T23:50:13.739Z'
+modified: '2021-02-09T19:58:32.810Z'
 ---
 
 Redux: Dispatch an Action Event

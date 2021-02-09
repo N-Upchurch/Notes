@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Match Characters that Occur Zero or More Times'
 created: '2019-12-09T06:20:57.783Z'
-modified: '2019-12-09T06:21:53.030Z'
+modified: '2021-02-09T20:00:22.999Z'
 ---
 
 Regular Expressions: Match Characters that Occur Zero or More Times

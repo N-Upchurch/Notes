@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Ignore Case While Matching'
 created: '2019-12-09T05:45:05.145Z'
-modified: '2019-12-09T05:51:27.064Z'
+modified: '2021-02-09T20:00:08.176Z'
 ---
 
 Regular Expressions: Ignore Case While Matching

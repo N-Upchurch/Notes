@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Missing letters'
 created: '2020-01-09T20:04:56.106Z'
-modified: '2020-01-10T20:01:29.363Z'
+modified: '2021-02-09T20:01:37.766Z'
 ---
 
 Intermediate Algorithm Scripting: Missing letters

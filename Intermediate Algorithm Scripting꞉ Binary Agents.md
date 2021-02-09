@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Binary Agents'
 created: '2020-02-12T02:01:34.907Z'
-modified: '2020-02-12T02:13:34.779Z'
+modified: '2021-02-09T20:01:37.437Z'
 ---
 
 Intermediate Algorithm Scripting: Binary Agents

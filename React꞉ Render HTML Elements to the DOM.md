@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, JSX, React]
+tags: [JSX, React]
 title: 'React: Render HTML Elements to the DOM'
 created: '2020-05-10T22:07:38.698Z'
-modified: '2020-05-10T22:12:37.981Z'
+modified: '2021-02-09T19:58:31.940Z'
 ---
 
 React: Render HTML Elements to the DOM

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: 'Basic Data Structures: Generate an Array of All Object Keys with Object.keys()'
 created: '2019-12-11T06:59:28.462Z'
-modified: '2019-12-11T06:59:47.243Z'
+modified: '2021-02-09T19:58:29.036Z'
 ---
 
 Basic Data Structures: Generate an Array of All Object Keys with Object.keys()

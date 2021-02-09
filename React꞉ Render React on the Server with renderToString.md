@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Render React on the Server with renderToString'
 created: '2020-10-06T02:34:30.956Z'
-modified: '2020-10-06T02:37:30.187Z'
+modified: '2021-02-09T19:58:31.981Z'
 ---
 
 React: Render React on the Server with renderToString

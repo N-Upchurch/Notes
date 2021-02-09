@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: Iterate Through the Keys of an Object with a for...in Statement
 created: '2019-12-11T06:48:00.660Z'
-modified: '2019-12-11T06:48:32.554Z'
+modified: '2021-02-09T19:58:30.965Z'
 ---
 
 Iterate Through the Keys of an Object with a for...in Statement

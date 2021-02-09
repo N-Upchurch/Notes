@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: 'Object Oriented Programming: Use Prototype Properties to Reduce Duplicate Code'
 created: '2019-12-13T19:38:54.317Z'
-modified: '2019-12-13T19:40:06.838Z'
+modified: '2021-02-09T19:58:31.239Z'
 ---
 
 Object Oriented Programming: Use Prototype Properties to Reduce Duplicate Code

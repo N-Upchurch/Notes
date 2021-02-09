@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React, Redux]
+tags: [React, Redux]
 title: '(1) React and Redux: Getting Started with React Redux'
 created: '2020-10-08T23:46:51.520Z'
-modified: '2020-10-08T23:52:46.418Z'
+modified: '2021-02-09T19:58:28.537Z'
 ---
 
 (1) React and Redux: Getting Started with React Redux

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, JSX, Notes, React]
+tags: [JSX, React]
 title: React Notes
 created: '2020-05-09T22:56:06.949Z'
-modified: '2020-05-12T19:01:22.899Z'
+modified: '2021-02-09T20:03:06.452Z'
 ---
 
 React Notes

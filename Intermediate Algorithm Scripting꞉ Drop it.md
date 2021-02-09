@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Drop it'
 created: '2020-01-27T02:29:17.957Z'
-modified: '2020-01-30T04:37:59.530Z'
+modified: '2021-02-09T20:01:37.632Z'
 ---
 
 Intermediate Algorithm Scripting: Drop it

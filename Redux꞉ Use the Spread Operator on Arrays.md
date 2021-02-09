@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Use the Spread Operator on Arrays'
 created: '2020-10-08T02:44:09.264Z'
-modified: '2020-10-08T02:48:43.093Z'
+modified: '2021-02-09T19:58:33.368Z'
 ---
 
 Redux: Use the Spread Operator on Arrays

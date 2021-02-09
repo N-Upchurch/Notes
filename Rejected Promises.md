@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Handle Fulfilled / Rejected Promises
 created: '2019-12-09T05:25:28.362Z'
-modified: '2019-12-09T05:31:45.254Z'
+modified: '2021-02-09T20:02:36.019Z'
 ---
 
 Handle Fulfilled  / Rejected Promises

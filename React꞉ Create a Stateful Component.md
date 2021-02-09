@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Create a Stateful Component'
 created: '2020-05-12T01:38:20.317Z'
-modified: '2020-05-12T01:44:09.368Z'
+modified: '2021-02-09T19:58:31.657Z'
 ---
 
 React: Create a Stateful Component

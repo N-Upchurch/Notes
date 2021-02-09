@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Render Conditionally from Props'
 created: '2020-09-19T01:17:45.451Z'
-modified: '2020-09-19T01:18:51.522Z'
+modified: '2021-02-09T19:58:31.905Z'
 ---
 
 React: Render Conditionally from Props

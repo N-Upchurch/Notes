@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Create a Controlled Form'
 created: '2020-08-23T01:32:04.938Z'
-modified: '2020-08-23T01:33:23.228Z'
+modified: '2021-02-09T19:58:31.521Z'
 ---
 
 React: Create a Controlled Form

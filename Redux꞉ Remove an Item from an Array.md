@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Remove an Item from an Array'
 created: '2020-10-08T02:57:34.102Z'
-modified: '2020-10-08T02:58:20.613Z'
+modified: '2021-02-09T19:58:33.114Z'
 ---
 
 Redux: Remove an Item from an Array

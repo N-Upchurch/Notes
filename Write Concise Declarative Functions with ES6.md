@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Write Concise Declarative Functions with ES6
 created: '2019-12-08T02:42:58.702Z'
-modified: '2019-12-08T02:47:40.762Z'
+modified: '2021-02-09T20:02:36.819Z'
 ---
 
 Write Concise Declarative Functions with ES6

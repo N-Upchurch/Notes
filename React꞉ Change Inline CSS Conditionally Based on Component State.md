@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Change Inline CSS Conditionally Based on Component State'
 created: '2020-10-03T18:34:26.115Z'
-modified: '2020-10-03T18:37:50.917Z'
+modified: '2021-02-09T19:58:31.439Z'
 ---
 
 React: Change Inline CSS Conditionally Based on Component State

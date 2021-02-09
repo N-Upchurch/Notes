@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Use * to Import Everything from a File
 created: '2019-12-09T04:55:23.534Z'
-modified: '2019-12-09T05:05:09.554Z'
+modified: '2021-02-09T20:02:36.316Z'
 ---
 
 Use * to Import Everything from a File

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, scss]
+tags: [scss]
 title: 'Sass: Split Your Styles into Smaller Chunks with Partials'
 created: '2020-05-09T22:44:22.063Z'
-modified: '2020-05-09T22:48:17.435Z'
+modified: '2021-02-09T19:58:34.893Z'
 ---
 
 Sass: Split Your Styles into Smaller Chunks with Partials

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Get State from the Redux Store'
 created: '2020-10-06T02:50:12.514Z'
-modified: '2020-10-06T02:51:00.078Z'
+modified: '2021-02-09T19:58:32.856Z'
 ---
 
 Redux: Get State from the Redux Store

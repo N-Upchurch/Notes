@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Render with an If-Else Condition'
 created: '2020-09-14T03:05:12.253Z'
-modified: '2020-09-14T03:20:33.254Z'
+modified: '2021-02-09T19:58:32.064Z'
 ---
 
 React: Render with an If-Else Condition

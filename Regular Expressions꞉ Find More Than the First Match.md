@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Find More Than the First Match'
 created: '2019-12-09T05:50:04.495Z'
-modified: '2019-12-09T05:50:59.080Z'
+modified: '2021-02-09T20:00:08.102Z'
 ---
 
 Regular Expressions: Find More Than the First Match

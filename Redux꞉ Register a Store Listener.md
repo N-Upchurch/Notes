@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Register a Store Listener'
 created: '2020-10-07T00:22:51.807Z'
-modified: '2020-10-07T00:34:34.266Z'
+modified: '2021-02-09T19:58:33.072Z'
 ---
 
 Redux: Register a Store Listener

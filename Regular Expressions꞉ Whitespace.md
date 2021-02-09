@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Whitespace'
 created: '2019-12-10T01:56:08.416Z'
-modified: '2019-12-10T03:12:39.617Z'
+modified: '2021-02-09T20:00:23.606Z'
 ---
 
 Regular Expressions: Whitespace

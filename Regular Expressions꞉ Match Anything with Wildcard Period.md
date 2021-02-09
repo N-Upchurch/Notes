@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Match Anything with Wildcard Period'
 created: '2019-12-09T05:54:18.537Z'
-modified: '2019-12-09T05:55:41.513Z'
+modified: '2021-02-09T20:00:08.461Z'
 ---
 
 Regular Expressions: Match Anything with Wildcard Period

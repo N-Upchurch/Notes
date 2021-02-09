@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Create a Module Script
 created: '2019-12-08T04:26:21.856Z'
-modified: '2019-12-08T04:28:44.349Z'
+modified: '2021-02-09T20:02:35.684Z'
 ---
 
 Create a Module Script

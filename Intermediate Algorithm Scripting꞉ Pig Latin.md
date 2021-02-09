@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Pig Latin'
 created: '2020-01-06T20:25:34.910Z'
-modified: '2020-01-08T02:27:32.811Z'
+modified: '2021-02-09T20:01:37.802Z'
 ---
 
 Intermediate Algorithm Scripting: Pig Latin

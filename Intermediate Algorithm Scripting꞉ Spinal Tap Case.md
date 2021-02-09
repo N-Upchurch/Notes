@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Spinal Tap Case'
 created: '2020-01-06T06:03:22.121Z'
-modified: '2020-01-06T06:06:47.457Z'
+modified: '2021-02-09T20:01:38.004Z'
 ---
 
 Intermediate Algorithm Scripting: Spinal Tap Case

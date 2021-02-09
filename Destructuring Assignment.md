@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Destructuring Assignment
 created: '2019-12-08T00:53:09.284Z'
-modified: '2019-12-08T02:46:42.910Z'
+modified: '2021-02-09T20:02:35.934Z'
 ---
 
 Destructuring Assignment

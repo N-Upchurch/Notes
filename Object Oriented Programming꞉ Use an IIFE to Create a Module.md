@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: 'Object Oriented Programming: Use an IIFE to Create a Module'
 created: '2019-12-16T19:57:13.570Z'
-modified: '2019-12-16T19:58:11.484Z'
+modified: '2021-02-09T19:58:31.202Z'
 ---
 
 Object Oriented Programming: Use an IIFE to Create a Module

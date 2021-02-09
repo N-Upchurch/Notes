@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Combine Multiple Reducers'
 created: '2020-10-07T00:36:41.548Z'
-modified: '2020-10-07T00:40:58.359Z'
+modified: '2021-02-09T19:58:32.547Z'
 ---
 
 Redux: Combine Multiple Reducers

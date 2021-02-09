@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Match All Non-Numbers'
 created: '2019-12-09T14:53:50.961Z'
-modified: '2019-12-09T14:54:31.945Z'
+modified: '2021-02-09T20:00:08.323Z'
 ---
 
 Regular Expressions: Match All Non-Numbers

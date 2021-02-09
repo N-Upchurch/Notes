@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use the Lifecycle Method componentWillMount'
 created: '2020-08-30T23:33:31.711Z'
-modified: '2020-08-30T23:36:02.348Z'
+modified: '2021-02-09T19:58:32.475Z'
 ---
 
 React: Use the Lifecycle Method componentWillMount

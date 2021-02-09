@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Debugging, Javascript]
+tags: [Javascript, JS Debugging]
 title: 'Debugging: Use typeof to Check the Type of a Variable'
 created: '2019-12-11T04:19:47.614Z'
-modified: '2019-12-11T04:20:48.226Z'
+modified: '2021-02-09T19:59:37.536Z'
 ---
 
 Debugging: Use typeof to Check the Type of a Variable

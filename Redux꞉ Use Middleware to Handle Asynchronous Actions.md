@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Use Middleware to Handle Asynchronous Actions'
 created: '2020-10-08T02:05:03.771Z'
-modified: '2020-10-08T02:19:30.636Z'
+modified: '2021-02-09T19:58:33.330Z'
 ---
 
 Redux: Use Middleware to Handle Asynchronous Actions

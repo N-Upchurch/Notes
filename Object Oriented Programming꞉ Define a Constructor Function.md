@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: 'Object Oriented Programming: Define a Constructor Function'
 created: '2019-12-13T05:48:17.488Z'
-modified: '2019-12-13T19:31:31.013Z'
+modified: '2021-02-09T19:58:31.163Z'
 ---
 
 Object Oriented Programming: Define a Constructor Function

@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Search and Replace'
 created: '2020-01-08T20:00:53.379Z'
-modified: '2020-01-09T07:15:54.355Z'
+modified: '2021-02-09T20:01:37.866Z'
 ---
 
 Intermediate Algorithm Scripting: Search and Replace

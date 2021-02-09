@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript, JS Regex]
 title: 'Regular Expressions: Use Capture Groups to Search and Replace'
 created: '2019-12-11T03:58:45.730Z'
-modified: '2019-12-11T04:00:33.494Z'
+modified: '2021-02-09T20:00:23.526Z'
 ---
 
 Regular Expressions: Use Capture Groups to Search and Replace

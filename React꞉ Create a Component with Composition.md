@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Create a Component with Composition'
 created: '2020-05-10T23:36:17.721Z'
-modified: '2020-05-10T23:37:31.077Z'
+modified: '2021-02-09T19:58:31.481Z'
 ---
 
 React: Create a Component with Composition

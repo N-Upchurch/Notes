@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Optimize Re-Renders with shouldComponentUpdate'
 created: '2020-09-09T04:06:57.827Z'
-modified: '2020-09-09T04:32:13.909Z'
+modified: '2021-02-09T19:58:31.741Z'
 ---
 
 React: Optimize Re-Renders with shouldComponentUpdate

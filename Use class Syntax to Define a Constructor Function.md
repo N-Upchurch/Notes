@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, ES6, Javascript]
+tags: [Javascript, JS ES6]
 title: Use class Syntax to Define a Constructor Function
 created: '2019-12-08T02:57:03.080Z'
-modified: '2019-12-08T03:04:53.382Z'
+modified: '2021-02-09T20:02:36.435Z'
 ---
 
 Use class Syntax to Define a Constructor Function

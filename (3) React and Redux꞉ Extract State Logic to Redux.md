@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React, Redux]
+tags: [React, Redux]
 title: '(3) React and Redux: Extract State Logic to Redux'
 created: '2020-10-10T01:05:44.922Z'
-modified: '2020-10-10T01:38:58.430Z'
+modified: '2021-02-09T19:58:28.687Z'
 ---
 
 (3) React and Redux: Extract State Logic to Redux

@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use State to Toggle an Element'
 created: '2020-05-22T18:21:06.097Z'
-modified: '2020-05-22T19:01:13.582Z'
+modified: '2021-02-09T19:58:32.391Z'
 ---
 
 React: Use State to Toggle an Element

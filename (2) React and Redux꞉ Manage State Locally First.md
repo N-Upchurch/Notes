@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React, Redux]
+tags: [React, Redux]
 title: '(2) React and Redux: Manage State Locally First'
 created: '2020-10-08T23:53:33.612Z'
-modified: '2020-10-09T00:50:01.561Z'
+modified: '2021-02-09T19:58:28.603Z'
 ---
 
 (2) React and Redux: Manage State Locally First

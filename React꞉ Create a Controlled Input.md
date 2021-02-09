@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Create a Controlled Input'
 created: '2020-06-12T03:44:45.073Z'
-modified: '2020-06-12T03:57:52.274Z'
+modified: '2021-02-09T19:58:31.572Z'
 ---
 
 React: Create a Controlled Input

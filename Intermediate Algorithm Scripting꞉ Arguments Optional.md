@@ -1,8 +1,8 @@
 ---
-tags: [Algorithm Solutions, Code Snippets, Javascript]
+tags: [Javascript, JS Algorithms]
 title: 'Intermediate Algorithm Scripting: Arguments Optional'
 created: '2020-02-18T19:26:43.710Z'
-modified: '2020-02-18T19:33:29.686Z'
+modified: '2021-02-09T20:01:37.383Z'
 ---
 
 Intermediate Algorithm Scripting: Arguments Optional

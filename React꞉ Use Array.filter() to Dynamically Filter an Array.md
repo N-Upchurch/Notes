@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Use Array.filter() to Dynamically Filter an Array'
 created: '2020-10-06T02:28:18.270Z'
-modified: '2020-10-06T02:33:15.823Z'
+modified: '2021-02-09T19:58:32.267Z'
 ---
 
 React: Use Array.filter() to Dynamically Filter an Array

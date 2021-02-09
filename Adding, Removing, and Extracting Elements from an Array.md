@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript]
+tags: [Javascript]
 title: 'Adding, Removing, and Extracting Elements from an Array'
 created: '2019-12-11T05:00:48.778Z'
-modified: '2019-12-11T05:25:33.915Z'
+modified: '2021-02-09T19:58:28.847Z'
 ---
 
 Adding, Removing, and Extracting Elements from an Array

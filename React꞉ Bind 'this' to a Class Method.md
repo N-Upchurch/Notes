@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, React]
+tags: [React]
 title: 'React: Bind ''this'' to a Class Method'
 created: '2020-05-21T18:48:40.044Z'
-modified: '2020-05-21T19:01:17.355Z'
+modified: '2021-02-09T19:58:31.397Z'
 ---
 
 React: Bind 'this' to a Class Method

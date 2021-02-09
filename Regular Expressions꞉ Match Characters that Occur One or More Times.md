@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Javascript, Regex]
+tags: [Javascript]
 title: 'Regular Expressions: Match Characters that Occur One or More Times'
 created: '2019-12-09T06:18:24.512Z'
-modified: '2019-12-09T06:19:06.252Z'
+modified: '2021-02-09T20:00:08.598Z'
 ---
 
 Regular Expressions: Match Characters that Occur One or More Times

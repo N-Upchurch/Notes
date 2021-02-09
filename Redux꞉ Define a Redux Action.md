@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Define a Redux Action'
 created: '2020-10-06T02:52:08.093Z'
-modified: '2020-10-06T02:54:19.525Z'
+modified: '2021-02-09T19:58:32.701Z'
 ---
 
 Redux: Define a Redux Action

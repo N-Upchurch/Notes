@@ -1,8 +1,8 @@
 ---
-tags: [Code Snippets, Redux]
+tags: [Redux]
 title: 'Redux: Create a Redux Store'
 created: '2020-10-06T02:39:01.330Z'
-modified: '2020-10-06T02:45:39.057Z'
+modified: '2021-02-09T19:58:32.643Z'
 ---
 
 Redux: Create a Redux Store
