@@ -1,8 +1,8 @@
 ---
-tags: [JSX, React]
+tags: [ JSX, React]
 title: React Notes
 created: '2020-05-09T22:56:06.949Z'
-modified: '2021-02-09T20:03:06.452Z'
+modified: '2020-10-13T01:38:31.949Z'
 ---
 
 React Notes
@@ -55,6 +55,12 @@ class MyComponent extends React.Component {
   }
 }
 
+/* 
+In the below function, the first argument is the component to be rendered, and the second is where it is to be rendered. Thus, rendering a React app might look like this:
+
+ReactDOM.render(<App />, document.getElementByID("root"));
+
+*/
 ReactDOM.render(<MyComponent />, document.getElementById("challenge-node"));
 ```
 
